@@ -1,30 +1,16 @@
 {
   "featured": {
-    "guides": [
+    "news": [
       {
-        "title": "Основы CS2 для новичков",
-        "description": "Узнайте все самое важное для начала игры.",
-        "image": "images/guide1.jpg",
-        "link": "/guides/guide1"
+        "title": "Новый патч 1.2",
+        "description": "Описание последних изменений.",
+        "link": "/news/patch-1.2"
       },
       {
-        "title": "Тактики на карте Mirage",
-        "description": "Улучшите свою игру на популярной карте.",
-        "image": "images/guide2.jpg",
-        "link": "/guides/guide2"
+        "title": "Анонс турнира",
+        "description": "Подробности о новом турнире.",
+        "link": "/news/tournament-announcement"
       }
-    ],
-    "news": [
-        {
-            "title": "Новый патч 1.2",
-            "description": "Описание последних изменений.",
-            "link": "/news/patch-1.2"
-        },
-        {
-            "title": "Анонс турнира",
-             "description": "Подробности о новом турнире.",
-             "link": "/news/tournament-announcement"
-        }
     ]
   }
 }
